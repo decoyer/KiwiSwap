@@ -9,6 +9,7 @@ using *Material-UI*
 - De-Fi 시스템 테스트 및 구현
 
 ## Getting Started
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ```
 npm install
 npm start
