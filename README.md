@@ -1,5 +1,5 @@
 # KiwiSwap
-web3 react library with *Typescript*
+Web3 DeFi Sevice with *Typescript*
 
 using *Material-UI*
 
